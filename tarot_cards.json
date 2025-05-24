@@ -1,0 +1,27 @@
+[
+  {
+    "name": "The Fool",
+    "meaning_up": "新開始，自由，冒險",
+    "meaning_rev": "魯莽，幼稚，逃避"
+  },
+  {
+    "name": "The Magician",
+    "meaning_up": "行動，力量，創造力",
+    "meaning_rev": "欺騙，浪費潛能"
+  },
+  {
+    "name": "The High Priestess",
+    "meaning_up": "直覺，潛意識，神秘",
+    "meaning_rev": "混亂，抑制，遲疑"
+  },
+  {
+    "name": "The Empress",
+    "meaning_up": "豐饒，孕育，關愛",
+    "meaning_rev": "依賴，自我中心，停滯"
+  },
+  {
+    "name": "The Emperor",
+    "meaning_up": "穩定，保護，權威",
+    "meaning_rev": "控制，專制，頑固"
+  }
+]
